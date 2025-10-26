@@ -1,4 +1,4 @@
-import project1_img from '../assets/Prem_portfolio.png'
+import project1_img from '../assets/Prem_Portfolio.png'
 import project2_img from '../assets/my_airbnb.png'
 import project3_img from '../assets/Movie_Ticket_booking.png'
 import project4_img from '../assets/Chat_APP.jpg'
