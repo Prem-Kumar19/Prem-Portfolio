@@ -11,6 +11,7 @@
     "start": "serve -s dist -l $PORT"
   },
   "dependencies": {
+    "lucide-react": "^0.548.0",
     "react": "^19.1.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-circular-progressbar": "^2.2.0",

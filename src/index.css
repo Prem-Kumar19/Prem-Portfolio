@@ -19,3 +19,11 @@ body{
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
 }
+#home,
+#about,
+#work,
+#contact,
+#services {
+  scroll-margin-top: 120px;
+   padding-top: 120px;
+}
