@@ -31,6 +31,11 @@
   justify-items: center;
   width: 100%;
 }
+.mywork-container a {
+  display: inline-block;
+  text-decoration: none;
+}
+
 
 .mywork-container img {
   box-sizing: border-box;
